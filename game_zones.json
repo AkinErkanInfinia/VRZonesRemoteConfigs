@@ -1,0 +1,21 @@
+{
+    "zones": [{
+        "zoneName": "panora",
+        "serverIp": "192.168.89.116",
+        "listenPort": 9050,
+        "sendReadyPort": 9051,
+        "calibrationEnabled": true
+    }, {
+        "zoneName": "dekk",
+        "serverIp": "192.168.89.117",
+        "listenPort": 9050,
+        "sendReadyPort": 9051,
+        "calibrationEnabled": false
+    }, {
+        "zoneName": "emaar",
+        "serverIp": "192.168.89.118",
+        "listenPort": 9050,
+        "sendReadyPort": 9051,
+        "calibrationEnabled": true
+    }]
+}
