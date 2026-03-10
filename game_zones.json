@@ -4,7 +4,7 @@
         "serverIp": "192.168.1.131",
         "listenPort": 9050,
         "sendReadyPort": 9051,
-        "calibrationEnabled": false
+        "calibrationEnabled": true
     }, {
         "zoneName": "dekk",
         "serverIp": "192.168.89.117",
