@@ -14,8 +14,8 @@
     }, {
         "zoneName": "emaar",
         "serverIp": "192.168.10.50",
-        "listenPort": 9050,
-        "sendReadyPort": 9051,
+        "listenPort": 8682,
+        "sendReadyPort": 8682,
         "calibrationEnabled": true
     }]
 }
