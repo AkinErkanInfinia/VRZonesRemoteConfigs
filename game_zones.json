@@ -16,6 +16,6 @@
         "serverIp": "192.168.10.50",
         "listenPort": 8682,
         "sendReadyPort": 8682,
-        "calibrationEnabled": true
+        "calibrationEnabled": false
     }]
 }
