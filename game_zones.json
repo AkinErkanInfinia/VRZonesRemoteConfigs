@@ -1,10 +1,10 @@
 {
     "zones": [{
         "zoneName": "panora",
-        "serverIp": "192.168.1.131",
+        "serverIp": "192.168.1.132",
         "listenPort": 8682,
         "sendReadyPort": 8682,
-        "calibrationEnabled": true
+        "calibrationEnabled": false
     }, {
         "zoneName": "dekk",
         "serverIp": "192.168.89.117",
